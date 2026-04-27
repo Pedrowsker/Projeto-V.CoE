@@ -1,0 +1,6 @@
+ID_Pedido,Produto,Quantidade,Preco_Unit,Data,Receita_Total
+101,Cimento CP-II,50,32.5,2026-01-10,1625.0
+102,Argamassa,20,25.0,2026-01-11,500.0
+103,Cimento CP-II,15,32.5,2026-01-12,487.5
+201,Cimento CP-II,10,34.125,2026-01-10,341.25
+202,Concrete_Mix,5,78.75,2026-01-11,393.75
