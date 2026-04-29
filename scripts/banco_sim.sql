@@ -15,7 +15,7 @@ CREATE TABLE metas_produtos (
 INSERT INTO vendas_processadas VALUES (101, 'Cimento CP-II', 50, 32.50, 1625.00);
 INSERT INTO vendas_processadas VALUES (102, 'Argamassa', 20, 25.00, 500.00);
 INSERT INTO vendas_processadas VALUES (103, 'Cimento CP-II', 15, 32.50, 487.50);
-INSERT INTO vendas_processadas VALUES (201, 'Cimento CP-II', 10, 34.12, 341.25); -- Exemplo do int convertido
+INSERT INTO vendas_processadas VALUES (201, 'Cimento CP-II', 10, 34.12, 341.25); 
 INSERT INTO vendas_processadas VALUES (202, 'Concrete_Mix', 5, 78.75, 393.75);
 
 INSERT INTO metas_produtos VALUES ('Cimento CP-II', 1000.00);
